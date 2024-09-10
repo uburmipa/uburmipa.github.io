@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://uburmipa.github.io/sitemap/sitemap.txt
